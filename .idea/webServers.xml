@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="7729147b-7b98-4709-ae13-1dd5c9548c30" name="ecoleIndex" url="http://ftp.cluster003.ovh.net:21">
+        <fileTransfer host="ftp.cluster003.ovh.net" port="21" rootFolder="/ecole/EcoleIndex">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
